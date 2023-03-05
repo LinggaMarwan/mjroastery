@@ -1,0 +1,97 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F5F5F5;
+}
+
+.navbar{
+    z-index: 3  ;
+}
+
+.nav-link{
+    font-size: 20px;
+    color:#ED1C91;
+
+}   
+
+.nav-link.active{
+    font-weight: 700;
+    color:#ED1C91 !important;
+}
+
+.btn{
+    background-color:#ED1C91;
+    color: #fff;
+    position: absolute;
+width: 143px;
+height: 43px;
+left: 150px;
+top: 582px;
+}
+
+.paragraf{
+    position: absolute;
+    width: 495px;
+    height: 113px;
+    left: 150px;
+    top: 469px;
+    font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.heading1{
+    position: absolute;
+    width: 486px;
+height: 271px;
+left: 150px;
+top: 290px;
+font-weight: 700;
+font-size: 64px;
+line-height: 78px;
+
+color: #ED1C91;
+}
+
+.img-front{
+    position: absolute;
+width: 423px;
+height: 406px;
+left: 800px;
+top: 286px;
+}
+
+/* Layanan */
+.circle-icon{
+    position: absolute;
+width: 269px;
+height: 270px;
+left: 228px;
+top: 800px;
+}
+
+.ser1{
+    position: absolute;
+width: 229px;
+height: 39px;
+left: 255px;
+top: 1050px;
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #ED1C91;
+}
+
+.card-layanan{
+    width: 100%;
+    height: 313px;
+    border-radius: 5px;
+    background-color: aqua;
+}
